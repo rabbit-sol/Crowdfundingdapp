@@ -13,8 +13,8 @@ This is a  decentralized application where any one can create a crowd fund, fund
 #### Clone the github repo or download zip of project here https://github.com/whiterabbit-hub/Crowdfundingdapp
 1. Open a Local blockchain On Ganache.
 2. Take the first private key from the list and use it in MetaMask wallet (make sure you're using private network on localhost)
-3. Open project in and IDE eploy the contract to localhost blockchain using the code in terminal <br>
+3. Open project in an IDE and deploy the contract to localhost blockchain using the following code in terminal <br>
   TRUFFLE MIGRATE -RESET
 5. open the proejct folder and run <br>
-6. NPM INSTALL to install dependencies 
-7. NPM START to run the frontned after deploying the contract.
+    NPM INSTALL to install dependencies 
+6. NPM START to run the frontned after deploying the contract.
